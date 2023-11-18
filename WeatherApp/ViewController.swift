@@ -3,12 +3,11 @@
 //  WeatherApp
 //
 //  Created by user234888 on 11/16/23.
+// Feba Thampan- Section 5 - MSD
 //
 
 import UIKit
 import CoreLocation
-//import SDWebImage
-
 
 class ViewController: UIViewController,CLLocationManagerDelegate {
     @IBOutlet weak var locationLabel: UILabel! //Label to display location
